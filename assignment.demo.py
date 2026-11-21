@@ -16,7 +16,7 @@ numbers = 1, 5, 7, 10, 6
 # print(y//x) 
 
 # (x,y,z) toplamının mod 3'ü nedir?
-# toplam = int(x+y+z)
+# toplam = (x+y+z)
 # print(toplam%3)
 
 # y'nin x. kuvvetini hesaplayınız.
